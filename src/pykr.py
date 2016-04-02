@@ -1,6 +1,10 @@
+class Suit: 
+    Hearts, Diamonds, Clubs, Spades = range(4)
+    
+
 
 def run():
-    print "hoi" 
+    print "test123" 
 
 
 
